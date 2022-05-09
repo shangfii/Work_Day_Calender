@@ -36,6 +36,10 @@ Visual Studio Code is a code editor redefined and optimized for building and deb
 
 6. [This additional](https://www.retest.us/) tool can help you test your keyboard, mic cam and battery on your computer before presentation. [Tool](https://www.retest.us/)
 
+7. [Moment.js library](https://momentjs.com/docs/#/displaying/)
+8. [jQuery library](https://jqueryui.com/)
+9. [Bootstrap](https://getbootstrap.com/)
+
 ## How to Modify this application
 
 Download visual studio code or use your favorite editor,Then using the command line clone this repository to your computer and start changing as you wish.
