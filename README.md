@@ -1,19 +1,13 @@
 # Work_Day_Calender
 A calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-## [Quality of life locator](https://shangfii.github.io/QualityLocator/IPGeolocator-develop%202/index.html)
 
-[Click here](https://shangfii.github.io/QualityLocator/IPGeolocator-develop%202/index.html) to learn about the quality of life at major urban areas
 
-## IPGeolocator
+[Project Overview]
+[Techlogies Used]
+[License]
 
-[Project Overview](https://github.com/ctmbr/IPGeolocator/tree/shangfii-patch-1#description-overview-ipgeolocator) 
-
-[Techlogies Used](https://github.com/ctmbr/IPGeolocator/blob/shangfii-patch-1/README.md#technologies-used)
-
-[License](https://github.com/shangfii/JS_Quiz/blob/main/LICENSE)
-
-[How to use this project as starter code](https://github.com/ctmbr/IPGeolocator/blob/shangfii-patch-1/README.md#how-to-modify-this-application)
+[How to use this project as starter code]
 
 ## Description (Overview): IPGeoLocator
 
