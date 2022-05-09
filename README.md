@@ -9,10 +9,6 @@ A calendar application that allows a user to save events for each hour of the da
 
 [How to use this project as starter code]
 
-## Description (Overview): IPGeoLocator
-
-An application for people interested in information about the quality of life at a particular location . The application will first detect your IP address and provide quality of life data for your current location. We will have a search bar so users can search other locations/cities. 
-
 
 
 ## Technologies used:
