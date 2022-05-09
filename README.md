@@ -34,9 +34,9 @@ The image below illustrates the use case for this app
 
 ![Calender at in the Day](https://github.com/shangfii/Work_Day_Calender/blob/main/assets/Calender_in_full_Use.gif)
 
-# Calender at end of day
+# Calender at end of day (Same color)
 
-![Calender at end of day](https://github.com/shangfii/Work_Day_Calender/blob/main/assets/Calender_in_full_Use.gif)
+![Calender at end of day](https://github.com/shangfii/Work_Day_Calender/blob/main/assets/Calender_at_endOfDAy.gif)
 
 
 
