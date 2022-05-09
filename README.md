@@ -23,7 +23,7 @@ A calendar application that allows a user to save events for each hour of the da
 
 ## Technologies used:
 
-1. HTML
+1. [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
 
 HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. [This article](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) gives a basic understanding of HTML and its functions.
