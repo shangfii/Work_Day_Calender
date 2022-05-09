@@ -2,11 +2,8 @@
 
 [See the App live!](https://shangfii.github.io/Work_Day_Calender/)
 
-# Overview 
 
-
-A calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. The purpose of this applicatoin is to demonstrate the use of third party API.
-
+# Content
 
 
 [Project Overview](https://github.com/shangfii/Work_Day_Calender/blob/main/README.md#overview)
@@ -18,6 +15,29 @@ A calendar application that allows a user to save events for each hour of the da
 [License](https://github.com/shangfii/Work_Day_Calender/blob/main/LICENSE)
 
 [How to use this project as starter code](https://github.com/shangfii/Work_Day_Calender/blob/main/README.md#how-to-modify-this-application)
+
+# Overview 
+
+
+A calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. The purpose of this applicatoin is to demonstrate the use of third party API.
+
+## Use Case
+
+The app will show different colors;
+Red indicates something to do in the future
+Yellow indicates something you should be doing now
+Green indicates something in past (Done already)
+
+The image below illustrates the use case for this app 
+
+# Calender during work hours
+
+![Calender at in the Day](https://github.com/shangfii/Work_Day_Calender/blob/main/assets/Calender_in_full_Use.gif)
+
+# Calender at end of day
+
+![Calender at end of day](https://github.com/shangfii/Work_Day_Calender/blob/main/assets/Calender_in_full_Use.gif)
+
 
 
 
