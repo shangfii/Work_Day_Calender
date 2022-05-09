@@ -38,7 +38,7 @@ Visual Studio Code is a code editor redefined and optimized for building and deb
 
 7. [Moment.js library](https://momentjs.com/docs/#/displaying/)
 8. 
-9. [jQuery library](https://jqueryui.com/) jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice
+9. [jQuery](https://jqueryui.com/) UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice
 10. 
 11. [Bootstrap](https://getbootstrap.com/)
 
