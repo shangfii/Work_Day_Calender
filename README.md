@@ -1,4 +1,6 @@
-# Work_Day_Calender
+# [Work_Day_Calender](https://shangfii.github.io/Work_Day_Calender/)
+
+[See the App live!](https://shangfii.github.io/Work_Day_Calender/)
 
 # Overview 
 
