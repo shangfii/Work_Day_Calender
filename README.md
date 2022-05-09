@@ -37,7 +37,7 @@ Visual Studio Code is a code editor redefined and optimized for building and deb
 6. [This additional](https://www.retest.us/) tool can help you test your keyboard, mic cam and battery on your computer before presentation. [Tool](https://www.retest.us/)
 
 7. [Moment.js library](https://momentjs.com/docs/#/displaying/) A friendly wrapper for JavaScript dates and times
-8. 
+
 9. [jQuery](https://jqueryui.com/) UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice
 
 11. [Bootstrap](https://getbootstrap.com/) Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.
