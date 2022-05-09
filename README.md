@@ -11,7 +11,7 @@ A calendar application that allows a user to save events for each hour of the da
 
 [License]
 
-[How to use this project as starter code] (https://github.com/shangfii/Work_Day_Calender/blob/main/README.md#how-to-modify-this-application)
+[How to use this project as starter code](https://github.com/shangfii/Work_Day_Calender/blob/main/README.md#how-to-modify-this-application)
 
 
 
