@@ -34,7 +34,7 @@ Visual Studio Code is a code editor redefined and optimized for building and deb
 
 5. [Goolge fonts](https://fonts.google.com/). Google provides some fonts that can be added to your app. "Free fonts)
 
-6. This additional tool can help you test your keyboard, mic cam and battery on your computer before presentation. [Tool](https://www.retest.us/)
+6. [This additional](https://www.retest.us/) tool can help you test your keyboard, mic cam and battery on your computer before presentation. [Tool](https://www.retest.us/)
 
 ## How to Modify this application
 
