@@ -24,9 +24,13 @@ A calendar application that allows a user to save events for each hour of the da
 ## Use Case
 
 The app will show different colors;
+
 Red indicates something to do in the future
+
 Yellow indicates something you should be doing now
+
 Green indicates something in past (Done already)
+
 
 The image below illustrates the use case for this app 
 
