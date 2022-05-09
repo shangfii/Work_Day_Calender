@@ -7,7 +7,7 @@ A calendar application that allows a user to save events for each hour of the da
 
 
 
-[Project Overview]
+[Project Overview](https://github.com/shangfii/Work_Day_Calender/blob/main/README.md#overview)
 
 
 [Techlogies Used](https://github.com/shangfii/Work_Day_Calender/blob/main/README.md#technologies-used)
