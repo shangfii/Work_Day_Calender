@@ -5,7 +5,7 @@
 # Overview 
 
 
-A calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+A calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. The purpose of this applicatoin is to demonstrate the use of third party API.
 
 
 
